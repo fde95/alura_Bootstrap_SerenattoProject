@@ -18,7 +18,7 @@
 <h2>Destaque do Projeto:</h2>
 <ul>
   <li>Modo Escuro: Criamos um modo escuro elegante para a página.</li>
-  <li>Modais Interativos: Implementamos modais interativos para destacar promoções e informações importantes.</li>
+  <li>Modais Interativos: Implementamos modais interativos para destacar informações sobre o café tradicional e café especial</li>
   <li>Menu Offcanvas: Tornamos o menu responsivo com uma abordagem offcanvas.</li>
   <li>Ferramentas de Formulário Modernas: Utilizamos as mais recentes ferramentas de formulário do Bootstrap para uma experiência do usuário aprimorada.</li>
 </ul>
